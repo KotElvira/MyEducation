@@ -1,5 +1,5 @@
 учуся
-
+commit test
 gg
 и обратно
 add line
